@@ -1,25 +1,18 @@
 ---
-title: "İstanbul Esenler Escort Bayan | \U0001F608 Esenler Eskort Kraliçe Randevu"
-category:
-  uri: uri-that-does-not-map-to-dorukcanay-vip
+title: "İstanbul Esenler Escort Bayan | 👑 Esenler Eskort Kraliçe Randevu"
+excerpt: "Esenler bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model ilanları. En popüler Esenler eskort bayan vitrini."
+category: "dorukcanay-vip"
+hidden: false
+order: 15
 metadata:
-  title: "İstanbul Esenler Escort Bayan | \U0001F608 Esenler Eskort Kraliçe Randevu"
-  description: >-
-    Esenler bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
-    ilanları. En popüler Esenler eskort bayan vitrini.
-  robots: index
-content:
-  excerpt: >-
-    Esenler bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
-    ilanları. En popüler Esenler eskort bayan vitrini.
-privacy:
-  view: public
-position: 15
+  title: "İstanbul Esenler Escort Bayan | 👑 Esenler Eskort Kraliçe Randevu"
+  description: "Esenler bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model ilanları. En popüler Esenler eskort bayan vitrini."
+  robots: "index"
 ---
 
 <meta name="google-site-verification" content="blR9C6PaZE-_yAVhnbK7o9PD1IWmlxQUzVnGMf3fHrI" />
 
-# İstanbul Esenler Escort Bayan | 😈 Esenler Eskort Kraliçe Randevu
+# İstanbul Esenler Escort Bayan | 👑 Esenler Eskort Kraliçe Randevu
 
 > [!WARNING]
 > **Güvenlik Uyarısı:** DorukcanAY platformundaki tüm bağımsız modeller %100 gerçek görsellere sahiptir ve kapora talep etmez. Ön ödeme isteyen dolandırıcılara itibar etmeyiniz.
@@ -35,29 +28,555 @@ position: 15
   0% { box-shadow: 0 0 10px rgba(255, 0, 85, 0.4); transform: scale(0.99); }
   100% { box-shadow: 0 0 25px rgba(255, 0, 85, 0.9); transform: scale(1.01); }
 }
+.premium-carousel {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background: #0d0d0d;
+  padding: 25px 0;
+  border-radius: 16px;
+  border: 1px solid #222;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.9);
+  margin: 30px 0;
+}
+.carousel-track {
+  display: flex;
+  width: calc(210px * 33);
+  animation: scrollMarquee 35s linear infinite;
+}
+.premium-carousel:hover .carousel-track {
+  animation-play-state: paused;
+}
+@keyframes scrollMarquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-210px * 25)); }
+}
+.carousel-card {
+  width: 190px;
+  margin: 0 10px;
+  background: #151515;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #2a2a2a;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  flex-shrink: 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+.carousel-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  border-color: #ff0055;
+  box-shadow: 0 10px 25px rgba(255, 0, 85, 0.45);
+}
+.card-img-wrap {
+  position: relative;
+  height: 230px;
+  overflow: hidden;
+}
+.card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+.carousel-card:hover .card-img-wrap img {
+  transform: scale(1.08);
+}
+.card-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(255, 0, 85, 0.85);
+  color: #fff;
+  padding: 4px 8px;
+  font-size: 0.7rem;
+  font-weight: bold;
+  border-radius: 4px;
+  text-transform: uppercase;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.2);
+}
+.card-meta {
+  padding: 12px;
+  background: #151515;
+}
+.card-meta h4 {
+  margin: 0 0 5px 0;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: bold;
+}
+.card-meta h4 small {
+  color: #888;
+  font-size: 0.75rem;
+}
+.card-desc {
+  margin: 0 0 8px 0;
+  color: #aaa;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-niche {
+  display: inline-block;
+  color: #ff0055;
+  font-size: 0.7rem;
+  font-weight: bold;
+  background: rgba(255, 0, 85, 0.08);
+  padding: 3px 8px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 0, 85, 0.2);
+}
+.sponsor-card {
+  border: 1px dashed #ff0055;
+  background: #110011;
+}
+.sponsor-card:hover {
+  border-style: solid;
+}
 </style>
 
 > **📍 Coğrafi ve Yerel Rehber:** Esenler mahallesi, konumunun sağladığı avantajlar ve sunduğu kentsel imkanlar ile İstanbul'un gözde yerleşim ve ticaret merkezlerindendir. Ulaşım akslarına olan entegrasyonu sayesinde şehir içi erişimi son derece kolaylaştırır. Sosyal olanakları, canlı sokakları ve modern çevre yapılaşmasıyla 7/24 yaşayan, hem konforlu hem de enerjik yapısını her daim sürdüren bir bölgedir.
 
-**İstanbul Esenler** bölgesinde en yüksek puan alan bağımsız bireysel partner listesinde **Selin** kalitesi fark yaratmaktadır. Size benzersiz bir gizlilik, konfor ve lüks vaat eden doğrulanmış profiller aşağıda listelenmiştir.
+Seçkin partner arayışınızı taçlandırmak adına, **İstanbul Esenler** bölgesinin en prestijli escort bayan profili olan **Selin** ile tanışın. Karşılıklı saygı ve gizlilik odaklı, son derece kraliçe ve elit bir buluşma gerçekleştirmek için doğrudan iletişim kurabilirsiniz.
 
 
-## 💋 DorukcanAY Premium Model Vitrini (25 Seçkin Partner):
+## ❤️ DorukcanAY Premium Model Vitrini:
 
-| **🔥 VIP MODEL** | **👑 PREMIUM PARTNER** | **✨ ELİT EŞLİK** | **💎 VIP SEÇENEK** | **🌟 GÜVENLİ MODEL** |
-| :---: | :---: | :---: | :---: | :---: |
-| **Selin** (European)<br>![Selin - Premium Sarışın Model](https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp)<br>_Premium Sarışın Model_<br>_Ortam: Private Suite_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Selin** (Latina)<br>![Selin - Eskort Kraliçe Randevu](https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp)<br>_Eskort Kraliçe Randevu_<br>_Ortam: Luxury Hotel_<br>**[Canlı Teyit](https://dorukcanay.digital)** | **Tuğçe** (European)<br>![Tuğçe - Sultan Refakatçi](https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp)<br>_Sultan Refakatçi_<br>_Ortam: Private Suite_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Yasemin** (European)<br>![Yasemin - Nefes Kesen Tanrıça](https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp)<br>_Nefes Kesen Tanrıça_<br>_Ortam: Elite Residence_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Aslı** (European)<br>![Aslı - Unutulmaz Eşlikçi](https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp)<br>_Unutulmaz Eşlikçi_<br>_Ortam: Luxury Hotel_<br>**[Canlı Teyit](https://dorukcanay.digital)** |
-| **Begüm** (European)<br>![Begüm - Eskort Kraliçe Randevu](https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp)<br>_Eskort Kraliçe Randevu_<br>_Ortam: Vip Meeting_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Didem** (European)<br>![Didem - Unutulmaz Eşlikçi](https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp)<br>_Unutulmaz Eşlikçi_<br>_Ortam: Private Suite_<br>**[4K Ultra HD](https://dorukcanay.digital)** | **Elif** (European)<br>![Elif - VIP Ateşli Eskort](https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp)<br>_VIP Ateşli Eskort_<br>_Ortam: Vip Meeting_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Gamze** (Russian)<br>![Gamze - Gizemli VIP Partner](https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp)<br>_Gizemli VIP Partner_<br>_Ortam: Vip Meeting_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Melis** (Turkish)<br>![Melis - Unutulmaz Eşlikçi](https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp)<br>_Unutulmaz Eşlikçi_<br>_Ortam: Luxury Hotel_<br>**[Gerçek Görsel](https://dorukcanay.digital)** |
-| **Aynur** (Russian)<br>![Aynur - Eskort Kraliçe Randevu](https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp)<br>_Eskort Kraliçe Randevu_<br>_Ortam: Private Suite_<br>**[4K Ultra HD](https://dorukcanay.digital)** | **Ayla** (Latina)<br>![Ayla - Unutulmaz Eşlikçi](https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp)<br>_Unutulmaz Eşlikçi_<br>_Ortam: Luxury Hotel_<br>**[4K Ultra HD](https://dorukcanay.digital)** | **DorukcanAY Sponsor Reklamı**<br>[![Reklam Ver](https://istanbulescort.blog/vitrin/reklam-ver-banner.png)](https://dorukcanay.digital)<br>_Kendi ilanınızı ekleyin_<br>_Hemen Reklam Verin_<br>**[İletişim İçin Tıklayın](https://dorukcanay.digital)** | **Esila** (European)<br>![Esila - Unutulmaz Eşlikçi](https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp)<br>_Unutulmaz Eşlikçi_<br>_Ortam: Elite Residence_<br>**[Canlı Teyit](https://dorukcanay.digital)** | **Narin** (Russian)<br>![Narin - Premium Sarışın Model](https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp)<br>_Premium Sarışın Model_<br>_Ortam: Private Suite_<br>**[4K Ultra HD](https://dorukcanay.digital)** |
-| **Rojîn** (Latina)<br>![Rojîn - Muhteşem Partner](https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp)<br>_Muhteşem Partner_<br>_Ortam: Private Suite_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Zilan** (Turkish)<br>![Zilan - Gizemli VIP Partner](https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp)<br>_Gizemli VIP Partner_<br>_Ortam: Elite Residence_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Derin** (Russian)<br>![Derin - Eskort Kraliçe Randevu](https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp)<br>_Eskort Kraliçe Randevu_<br>_Ortam: Private Suite_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Melisa** (Russian)<br>![Melisa - Eskort Kraliçe Randevu](https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp)<br>_Eskort Kraliçe Randevu_<br>_Ortam: Vip Meeting_<br>**[Videolu Onay](https://dorukcanay.digital)** | **Svetlana** (Latina)<br>![Svetlana - Gizemli VIP Partner](https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp)<br>_Gizemli VIP Partner_<br>_Ortam: Vip Meeting_<br>**[Gerçek Görsel](https://dorukcanay.digital)** |
-| **Aylin** (Russian)<br>![Aylin - VIP Ateşli Eskort](https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp)<br>_VIP Ateşli Eskort_<br>_Ortam: Vip Meeting_<br>**[Canlı Teyit](https://dorukcanay.digital)** | **Buse** (European)<br>![Buse - VIP Ateşli Eskort](https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp)<br>_VIP Ateşli Eskort_<br>_Ortam: Vip Meeting_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Ceren** (Russian)<br>![Ceren - VIP Ateşli Eskort](https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp)<br>_VIP Ateşli Eskort_<br>_Ortam: Elite Residence_<br>**[Gerçek Görsel](https://dorukcanay.digital)** | **Ece** (Turkish)<br>![Ece - VIP Ateşli Eskort](https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp)<br>_VIP Ateşli Eskort_<br>_Ortam: Vip Meeting_<br>**[Canlı Teyit](https://dorukcanay.digital)** | **Gizem** (Latina)<br>![Gizem - Nefes Kesen Tanrıça](https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp)<br>_Nefes Kesen Tanrıça_<br>_Ortam: Private Suite_<br>**[4K Ultra HD](https://dorukcanay.digital)** |
+<div class="premium-carousel">
+  <div class="carousel-track">
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Selin - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Selin <small>(Turkish)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Selin - Premium Sarışın Model" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Selin <small>(European)</small></h4>
+          <p class="card-desc">Premium Sarışın Model</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" alt="Tuğçe - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Tuğçe <small>(European)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" alt="Yasemin - Premium Sarışın Model" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Yasemin <small>(Russian)</small></h4>
+          <p class="card-desc">Premium Sarışın Model</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" alt="Aslı - Sultan Refakatçi" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Aslı <small>(Latina)</small></h4>
+          <p class="card-desc">Sultan Refakatçi</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" alt="Begüm - Muhteşem Partner" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Begüm <small>(Turkish)</small></h4>
+          <p class="card-desc">Muhteşem Partner</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" alt="Didem - Premium Sarışın Model" loading="lazy">
+          <span class="card-badge">Videolu Onay</span>
+        </div>
+        <div class="card-meta">
+          <h4>Didem <small>(Latina)</small></h4>
+          <p class="card-desc">Premium Sarışın Model</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Elif - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Elif <small>(Turkish)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" alt="Gamze - Muhteşem Partner" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Gamze <small>(European)</small></h4>
+          <p class="card-desc">Muhteşem Partner</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" alt="Melis - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Melis <small>(Russian)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" alt="Aynur - Sultan Refakatçi" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Aynur <small>(European)</small></h4>
+          <p class="card-desc">Sultan Refakatçi</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" alt="Ayla - Nefes Kesen Tanrıça" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Ayla <small>(Russian)</small></h4>
+          <p class="card-desc">Nefes Kesen Tanrıça</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card sponsor-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener">
+        <div class="sponsor-banner" style="background: linear-gradient(135deg, #7000ff 0%, #ff0055 100%); height: 230px; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 15px; text-align: center; color: #fff; box-sizing: border-box;">
+          <strong style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 5px;">📢 REKLAM VER</strong>
+          <span style="font-size: 0.8rem; margin: 10px 0; color: #ffe0eb; display: block;">Profilinizi binlerce kişiye ulaştırın</span>
+          <span style="background: #fff; color: #ff0055; padding: 6px 15px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; display: inline-block;">Hemen Katıl</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" alt="Esila - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Esila <small>(Turkish)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Narin - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Narin <small>(Latina)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" alt="Rojîn - VIP Ateşli Eskort" loading="lazy">
+          <span class="card-badge">Videolu Onay</span>
+        </div>
+        <div class="card-meta">
+          <h4>Rojîn <small>(Latina)</small></h4>
+          <p class="card-desc">VIP Ateşli Eskort</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" alt="Zilan - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Zilan <small>(Russian)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" alt="Derin - Nefes Kesen Tanrıça" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Derin <small>(European)</small></h4>
+          <p class="card-desc">Nefes Kesen Tanrıça</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" alt="Melisa - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Melisa <small>(Latina)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" alt="Svetlana - VIP Ateşli Eskort" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Svetlana <small>(Latina)</small></h4>
+          <p class="card-desc">VIP Ateşli Eskort</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Aylin - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Aylin <small>(European)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" alt="Buse - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Buse <small>(European)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" alt="Ceren - Sultan Refakatçi" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Ceren <small>(Latina)</small></h4>
+          <p class="card-desc">Sultan Refakatçi</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" alt="Ece - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">Kaporasız</span>
+        </div>
+        <div class="card-meta">
+          <h4>Ece <small>(European)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" alt="Gizem - Nefes Kesen Tanrıça" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Gizem <small>(Russian)</small></h4>
+          <p class="card-desc">Nefes Kesen Tanrıça</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Selin - Muhteşem Partner" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Selin <small>(Turkish)</small></h4>
+          <p class="card-desc">Muhteşem Partner</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Selin - Premium Sarışın Model" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Selin <small>(European)</small></h4>
+          <p class="card-desc">Premium Sarışın Model</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" alt="Tuğçe - Premium Sarışın Model" loading="lazy">
+          <span class="card-badge">Gerçek Görsel</span>
+        </div>
+        <div class="card-meta">
+          <h4>Tuğçe <small>(Turkish)</small></h4>
+          <p class="card-desc">Premium Sarışın Model</p>
+          <span class="card-niche">📍 Vip Meeting</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" alt="Yasemin - Unutulmaz Eşlikçi" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Yasemin <small>(European)</small></h4>
+          <p class="card-desc">Unutulmaz Eşlikçi</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" alt="Aslı - VIP Ateşli Eskort" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Aslı <small>(European)</small></h4>
+          <p class="card-desc">VIP Ateşli Eskort</p>
+          <span class="card-niche">📍 Elite Residence</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" alt="Begüm - Nefes Kesen Tanrıça" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Begüm <small>(Russian)</small></h4>
+          <p class="card-desc">Nefes Kesen Tanrıça</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" alt="Didem - Muhteşem Partner" loading="lazy">
+          <span class="card-badge">4K Ultra HD</span>
+        </div>
+        <div class="card-meta">
+          <h4>Didem <small>(Russian)</small></h4>
+          <p class="card-desc">Muhteşem Partner</p>
+          <span class="card-niche">📍 Private Suite</span>
+        </div>
+      </a>
+    </div>
+    <div class="carousel-card">
+      <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: block;">
+        <div class="card-img-wrap">
+          <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" alt="Elif - Eskort Kraliçe Randevu" loading="lazy">
+          <span class="card-badge">Canlı Teyit</span>
+        </div>
+        <div class="card-meta">
+          <h4>Elif <small>(Turkish)</small></h4>
+          <p class="card-desc">Eskort Kraliçe Randevu</p>
+          <span class="card-niche">📍 Luxury Hotel</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
 
----
 
 
 
-
-### 💋 Esenler Bölgesinde Hizmet Verilen Çevre Mahalleler:
+### ❤️ Esenler Bölgesinde Hizmet Verilen Çevre Mahalleler:
 Bu sayfadaki bağımsız VIP eskort modellerimiz, **Esenler** genelinde ve özellikle aşağıdaki yakın çevre bölgelerinde adrese/otele hizmet sunmaktadır:
 
 *   **Davutpaşa Mahallesi Escort**
@@ -73,7 +592,7 @@ Bu sayfadaki bağımsız VIP eskort modellerimiz, **Esenler** genelinde ve özel
 
 
 
-Buluşma rezervasyonlarında maksimum güvenlik ve gizlilik önceliğimizdir. Bölgedeki bağımsız VIP modellerimiz, Luxury Hotel ortamlarda randevu kabul etmekte ve asla ön ödeme talep etmemektedir. Güvenli ve sorunsuz bir deneyim için profil yönlendirmelerimizi kullanabilirsiniz.
+Tüm görüşmeler tamamen kaporasız, ön ödemesiz ve adreste elden nakit ödemeli olarak, Luxury Hotel standartlarında gerçekleştirilmektedir. Kusursuz, konforlu ve son derece lüks bir refakat deneyimi için **Selin** profil detaylarını inceleyip randevunuzu güvenle oluşturabilirsiniz.
 
 ---
 ### 📍 Popüler Arama Başlıkları:
