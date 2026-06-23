@@ -1,68 +1,102 @@
 ---
-title: "İstanbul Kadıköy Escort Bayan | 🔥 Kadıköy Eskort Kraliçe Randevu"
-excerpt: "Kadıköy bölgesinde kaporasız ve elden ödemeli VIP DorukcanAY VIP model ilanları. En popüler Kadıköy eskort bayan vitrini."
-category: "istanbul-escorts"
-hidden: false
-order: 14
+title: "İstanbul Kadıköy Escort Bayan | \U0001F48B Kadıköy Eskort Kraliçe Randevu"
+category:
+  uri: uri-that-does-not-map-to-dorukcanay-vip
 metadata:
-  title: "İstanbul Kadıköy Escort Bayan | 🔥 Kadıköy Eskort Kraliçe Randevu"
-  description: "Kadıköy bölgesinde kaporasız ve elden ödemeli VIP DorukcanAY VIP model ilanları. En popüler Kadıköy eskort bayan vitrini."
-  robots: "index"
+  title: "İstanbul Kadıköy Escort Bayan | \U0001F48B Kadıköy Eskort Kraliçe Randevu"
+  description: >-
+    Kadıköy bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY Vip model
+    escort ilanları. En popüler Kadıköy eskort bayan vitrini.
+  robots: index
+content:
+  excerpt: >-
+    Kadıköy bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY Vip model
+    escort ilanları. En popüler Kadıköy eskort bayan vitrini.
+privacy:
+  view: public
+position: 14
 ---
 
 
 <meta name="google-site-verification" content="blR9C6PaZE-_yAVhnbK7o9PD1IWmlxQUzVnGMf3fHrI" />
 
-# İstanbul Kadıköy Escort Bayan | 🔥 Kadıköy Eskort Kraliçe Randevu
-
-> [!WARNING]
-> **Güvenlik Uyarısı:** DorukcanAY platformundaki tüm bağımsız modeller %100 gerçek görsellere sahiptir ve kapora talep etmez. Ön ödeme isteyen dolandırıcılara itibar etmeyiniz.
-
-> [!IMPORTANT]
-> ### 👑 BAĞIMSIZ MODEL İLANINIZI YAYINLAYIN
-> İstanbul genelinde günlük yüzbinlerce ziyaretçiye ulaşan vitrinimizde yerinizi alın. Kaporasız ve elden ödemeli VIP profilinizle kazanmaya başlayın.
-> **[✨ İLAN VERMEK İÇİN TIKLAYINIZ (Elden Ödemeli)](https://dorukcanay.digital)**
+# İstanbul Kadıköy Escort Bayan | 💋 Kadıköy Eskort Kraliçe Randevu
 
 > **📍 Coğrafi ve Yerel Rehber:** Kadıköy mahallesi, konumunun sağladığı avantajlar ve sunduğu kentsel imkanlar ile İstanbul'un gözde yerleşim ve ticaret merkezlerindendir. Ulaşım akslarına olan entegrasyonu sayesinde şehir içi erişimi son derece kolaylaştırır. Sosyal olanakları, canlı sokakları ve modern çevre yapılaşmasıyla 7/24 yaşayan, hem konforlu hem de enerjik yapısını her daim sürdüren bir bölgedir.
 
-Seçkin partner arayışınızı taçlandırmak adına, **İstanbul Kadıköy** bölgesinin en prestijli bireysel partner profili olan **Pelin** ile tanışın. Karşılıklı saygı ve gizlilik odaklı, son derece gizli ve ayrıcalıklı bir buluşma gerçekleştirmek için doğrudan iletişim kurabilirsiniz.
+**İstanbul Kadıköy** bölgesinde en yüksek tavsiye oranına sahip olan bağımsız escort bayan listesinde **Pelin** zarafeti ve kalitesiyle fark yaratmaktadır. Size özel, güvenli, konforlu ve gerçek fotoğraflı bir refakat vaat eden teyitli model profilleri burada yer almaktadır.
 
 
-## 💋 DorukcanAY Premium Model Vitrini:
+## 👑 İstanbul Kadıköy Premium Escort İlan Vitrini (İlk 10 Model):
 
-<marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Pelin - Unutulmaz Eşlikçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Pelin - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Selin - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Tuğçe - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Yasemin - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Aslı - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Begüm - VIP Ateşli Eskort" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Didem - Gizemli VIP Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Elif - Gizemli VIP Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Gamze - Unutulmaz Eşlikçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Melis - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Aynur - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTgwIiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjE4MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNzAwMGZmIiBzdG9wLW9wYWNpdHk9IjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmMDA1NSIgc3RvcC1vcGFjaXR5PSIxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEzMCIgaGVpZ2h0PSIxODAiIHJ4PSI4IiBmaWxsPSJ1cmwoI2dyYWQpIiAvPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCI+8J+ToiBSRUtMQU0gVkVSPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZlMGViIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjciIGZvbnQtd2VpZ2h0PSI1MDAiPlByb2ZpbGluaSDDlm5lIMOHxLFrYXI8L3RleHQ+CiAgPHJlY3QgeD0iMTUiIHk9IjExMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIyNCIgcng9IjEyIiBmaWxsPSIjZmZmZmZmIiAvPgogIDx0ZXh0IHg9IjUwJSIgeT0iMTIyIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmYwMDU1IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIj5IZW1lbiBLYXTEsWw8L3RleHQ+Cjwvc3ZnPg==" width="130" height="180" alt="Reklam Ver" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Ayla - Sultan Refakatçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Esila - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Narin - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Rojîn - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Zilan - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Derin - Sultan Refakatçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Melisa - Sultan Refakatçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Svetlana - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Aylin - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Buse - Unutulmaz Eşlikçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Ceren - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Ece - VIP Ateşli Eskort" /></a>
-</marquee>
+| 📸 Görsel | 👑 Tuğçe - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-84.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Tuğçe - Kadıköy Premium" /> | **İsim / Yaş:** Tuğçe (20 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Private Suite <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Ceren - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/istanbul-kaporasiz-escort-ceren-1.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Ceren - Kadıköy Premium" /> | **İsim / Yaş:** Ceren (28 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** VIP Elit Model <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Aslı - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-58.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Aslı - Kadıköy Premium" /> | **İsim / Yaş:** Aslı (22 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Luxury Hotel <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Begüm - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-215.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Begüm - Kadıköy Premium" /> | **İsim / Yaş:** Begüm (23 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Vip Meeting <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Esila - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/istanbul-kaporasiz-escort-esila-1.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Esila - Kadıköy Premium" /> | **İsim / Yaş:** Esila (27 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Boşnak - Ateşli, heyecan verici uzman <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Elif - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-120.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Elif - Kadıköy Premium" /> | **İsim / Yaş:** Elif (25 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Luxury Hotel <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Gamze - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-96.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Gamze - Kadıköy Premium" /> | **İsim / Yaş:** Gamze (26 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Vip Meeting <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Melis - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-130.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Melis - Kadıköy Premium" /> | **İsim / Yaş:** Melis (27 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Vip Meeting <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Aynur - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-102.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Aynur - Kadıköy Premium" /> | **İsim / Yaş:** Aynur (20 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Luxury Hotel <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | 👑 Ayla - Premium Escort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-192.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Ayla - Kadıköy Premium" /> | **İsim / Yaş:** Ayla (21 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Luxury Hotel <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+
+## 💎 İstanbul Kadıköy Gold Escort İlan Vitrini (Ek 5 Model):
+
+| 📸 Görsel | ✨ Esila - Gold Eskort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-213.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Esila - Kadıköy Gold" /> | **İsim / Yaş:** Esila (22 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Vip Meeting <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | ✨ Narin - Gold Eskort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-100.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Narin - Kadıköy Gold" /> | **İsim / Yaş:** Narin (23 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Elite Residence <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | ✨ Rojîn - Gold Eskort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-41.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Rojîn - Kadıköy Gold" /> | **İsim / Yaş:** Rojîn (24 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Elite Residence <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | ✨ Zilan - Gold Eskort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-154.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Zilan - Kadıköy Gold" /> | **İsim / Yaş:** Zilan (25 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Private Suite <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
+
+| 📸 Görsel | ✨ Asya - Gold Eskort |
+| :--- | :--- |
+| <img src="https://istanbulescort.blog/_media/vitrin/vip-profil-132.webp" width="130" height="180" style="border-radius: 8px; object-fit: cover;" alt="Asya - Kadıköy Gold" /> | **İsim / Yaş:** Asya (26 Yaşında) <br> **Durum:** 🟢 %100 Doğrulanmış Gerçek Görsel <br> **Hizmet Alanı:** 🏡 Ev • 🏨 Otel • 🏢 Rezidans <br> **Hizmet Konsepti:** Private Suite <br> **İletişim & Rezervasyon:** **[✨ İletişime Geç & Randevu Al (WhatsApp)](https://dorukcanay.digital/whatsapp)** <br> **Reklam & İlan Bilgisi:** Tüm vitrin profillerini satıyoruz! İlan almak için iletişime geçiniz: **+1 (249) 544-8982** |
 
 
 
 
-### ✨ Kadıköy Bölgesinde Hizmet Verilen Çevre Mahalleler:
-Bu sayfadaki bağımsız VIP eskort modellerimiz, **Kadıköy** genelinde ve özellikle aşağıdaki yakın çevre bölgelerinde adrese/otele hizmet sunmaktadır:
+### 🔥 Kadıköy Bölgesinde Hizmet Verilen Çevre Mahalleler:
+Bu sayfadaki bağımsız Vip eskort modellerimiz, **Kadıköy** genelinde ve özellikle aşağıdaki yakın çevre bölgelerinde adrese/otele hizmet sunmaktadır:
 
 *   **Moda Mahallesi Escort**
 *   **Caferağa Mahallesi Escort**
@@ -78,7 +112,7 @@ Bu sayfadaki bağımsız VIP eskort modellerimiz, **Kadıköy** genelinde ve öz
 
 
 
-Gizliliğinize en üst düzeyde önem veren **Pelin**, randevu saatinde belirttiğiniz adreste gecikme yaşamadan yerini alır. Rezidans, lüks otel veya kendi özel alanınızda Luxury Hotel standartlarında unutulmaz bir eşlik hizmeti almak için hemen iletişime geçin.
+
 
 ---
 ### 📍 Popüler Arama Başlıkları:
