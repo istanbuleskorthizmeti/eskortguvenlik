@@ -25,37 +25,37 @@ metadata:
 
 > **📍 Coğrafi ve Yerel Rehber:** Kağıthane mahallesi, konumunun sağladığı avantajlar ve sunduğu kentsel imkanlar ile İstanbul'un gözde yerleşim ve ticaret merkezlerindendir. Ulaşım akslarına olan entegrasyonu sayesinde şehir içi erişimi son derece kolaylaştırır. Sosyal olanakları, canlı sokakları ve modern çevre yapılaşmasıyla 7/24 yaşayan, hem konforlu hem de enerjik yapısını her daim sürdüren bir bölgedir.
 
-Seçkin partner arayışınızı taçlandırmak adına, **İstanbul Kağıthane** bölgesinin en prestijli bireysel partner profili olan **Tuğçe** ile tanışın. Karşılıklı saygı ve gizlilik odaklı, son derece muhteşem ve ayrıcalıklı bir buluşma gerçekleştirmek için doğrudan iletişim kurabilirsiniz.
+Eğer kendinize unutulmaz, elit ve son derece keyifli bir buluşma hediye etmek istiyorsanız, **İstanbul Kağıthane** VIP eskort seçenekleri beklentilerinizin çok ötesinde bir hizmet sunacaktır. **Tuğçe** ile en seçkin ve ayrıcalıklı ortamları paylaşmak için güncel listelerimizi şimdi detaylıca inceleyin.
 
 
-## 👑 DorukcanAY Premium Model Vitrini:
+## 💋 DorukcanAY Premium Model Vitrini:
 
 <marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Tuğçe - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Tuğçe - Gizemli VIP Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Yasemin - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Aslı - Unutulmaz Eşlikçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Begüm - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Didem - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Elif - Sultan Refakatçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Gamze - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Melis - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Aynur - VIP Ateşli Eskort" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Ayla - Gizemli VIP Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Esila - Premium Sarışın Model" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-142.webp" width="130" height="180" alt="BİREYSEL - Unutulmaz Eşlikçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-130.webp" width="130" height="180" alt="GERÇEK - Unutulmaz Eşlikçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-160.webp" width="130" height="180" alt="RUS - VIP Ateşli Eskort" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/istanbul-kaporasiz-escort-esila-1.webp" width="130" height="180" alt="Esila - VIP Ateşli Eskort" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="VIP - Premium Sarışın Model" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/istanbul-kaporasiz-escort-ayla-1.webp" width="130" height="180" alt="Ayla - Muhteşem Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-170.webp" width="130" height="180" alt="OLGUN - Unutulmaz Eşlikçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-67.webp" width="130" height="180" alt="ÜNİVERSİTELİ - Muhteşem Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-136.webp" width="130" height="180" alt="RUS - VIP Ateşli Eskort" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-84.webp" width="130" height="180" alt="LÜKS - Gizemli VIP Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-73.webp" width="130" height="180" alt="YABANCI - Eskort Kraliçe Randevu" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-58.webp" width="130" height="180" alt="VIP - Unutulmaz Eşlikçi" /></a>
   <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTgwIiB3aWR0aD0iMTMwIiBoZWlnaHQ9IjE4MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNzAwMGZmIiBzdG9wLW9wYWNpdHk9IjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmMDA1NSIgc3RvcC1vcGFjaXR5PSIxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEzMCIgaGVpZ2h0PSIxODAiIHJ4PSI4IiBmaWxsPSJ1cmwoI2dyYWQpIiAvPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCI+8J+ToiBSRUtMQU0gVkVSPC90ZXh0PgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZlMGViIiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjciIGZvbnQtd2VpZ2h0PSI1MDAiPlByb2ZpbGluaSDDlm5lIMOHxLFrYXI8L3RleHQ+CiAgPHJlY3QgeD0iMTUiIHk9IjExMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIyNCIgcng9IjEyIiBmaWxsPSIjZmZmZmZmIiAvPgogIDx0ZXh0IHg9IjUwJSIgeT0iMTIyIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmYwMDU1IiBmb250LWZhbWlseT0ic3lzdGVtLXVpLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIj5IZW1lbiBLYXTEsWw8L3RleHQ+Cjwvc3ZnPg==" width="130" height="180" alt="Reklam Ver" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Narin - Unutulmaz Eşlikçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Rojîn - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Zilan - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Derin - Premium Sarışın Model" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Melisa - Eskort Kraliçe Randevu" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Svetlana - Sultan Refakatçi" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-6.webp" width="130" height="180" alt="Aylin - Gizemli VIP Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-1.webp" width="130" height="180" alt="Buse - VIP Ateşli Eskort" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-2.webp" width="130" height="180" alt="Ceren - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-3.webp" width="130" height="180" alt="Ece - Nefes Kesen Tanrıça" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-4.webp" width="130" height="180" alt="Gizem - Muhteşem Partner" /></a>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-5.webp" width="130" height="180" alt="Hande - Gizemli VIP Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-26.webp" width="130" height="180" alt="YABANCI - Muhteşem Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-70.webp" width="130" height="180" alt="OLGUN - Sultan Refakatçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-46.webp" width="130" height="180" alt="LÜKS - Gizemli VIP Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-92.webp" width="130" height="180" alt="ELİT - Eskort Kraliçe Randevu" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-36.webp" width="130" height="180" alt="ANALİZ - Unutulmaz Eşlikçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-41.webp" width="130" height="180" alt="GERÇEK - Premium Sarışın Model" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-98.webp" width="130" height="180" alt="OLGUN - Muhteşem Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-212.webp" width="130" height="180" alt="PREMIUM - Unutulmaz Eşlikçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-214.webp" width="130" height="180" alt="GERÇEK - Sultan Refakatçi" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-21.webp" width="130" height="180" alt="OLGUN - VIP Ateşli Eskort" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-152.webp" width="130" height="180" alt="ANALİZ - Muhteşem Partner" /></a>
+  <a href="https://dorukcanay.digital" target="_blank" rel="noopener"><img src="https://istanbulescort.blog/_media/vitrin/vip-profil-184.webp" width="130" height="180" alt="RUS - VIP Ateşli Eskort" /></a>
 </marquee>
 
 
@@ -78,7 +78,7 @@ Bu sayfadaki bağımsız VIP eskort modellerimiz, **Kağıthane** genelinde ve �
 
 
 
-Ön ödeme dolandırıcılarından uzak durarak, sıfır maddi risk ile **İstanbul Kağıthane** bölgesinde bağımsız model hizmeti alabilirsiniz. Görüşme anında elden ödeme kolaylığı ve Elite Residence konseptinde sunulan elit refakat ile unutulmaz bir akşam sizleri bekliyor.
+Karşılıklı saygı ve güven çerçevesinde gerçekleşen buluşmalarımızda, en ufak bir ön ödeme şartı aranmaz. **İstanbul Kağıthane** genelinde dilediğiniz adrese teyitli servis imkanı sunan bağımsız partnerlerimizle güvenli eskort deneyimini yaşayın.
 
 ---
 ### 📍 Popüler Arama Başlıkları:
